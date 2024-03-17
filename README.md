@@ -8,9 +8,11 @@ Requirements: Ensure Python is installed on your system along with Pygame and nu
 pip install pygame numpy
 
 Clone and Play:
+'''
 git clone https://github.com/yourusername/2048.git
 cd 2048
 python 2048.py
+'''
 
 ## How to Play
 
