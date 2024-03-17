@@ -9,7 +9,7 @@ pip install pygame numpy
 
 Clone and Play:
 ```
-git clone https://github.com/yourusername/2048.git
+git clone https://github.com/moonrabbit12/2048.git
 cd 2048
 python 2048.py
 ```
