@@ -1,4 +1,4 @@
-#2048 in Pygame 
+# 2048 in Pygame 
 
 This repository hosts a Python implementation of the classic 2048 game, developed using Pygame.
 
